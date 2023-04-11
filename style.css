@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boton-inicio{
+    border-color: black;
+}
+.boton-registrarse{
+    border-color: black;
+}
+.boton-inicio:hover{
+    border-color:blue;
+}
+.boton-registrarse:hover{
+    border-color: blue;
+}
+
+.class-footer{
+    background-color: rgb(29, 29, 29 );
+}
+
+.navbar-class{
+    background-color: rgb(29, 29, 29 );
+}

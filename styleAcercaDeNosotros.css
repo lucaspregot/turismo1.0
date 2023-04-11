@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  padding: 2vw;
+    
+    justify-content: center;
+    align-items: center;
+    
+    background: #222;
+    background-image: repeating-linear-gradient(
+      to bottom,
+      transparent 7px,
+      rgba(0, 0, 0, 0.8) 9px,
+      rgba(0, 0, 0, 0.8) 13px,
+      transparent 13px
+    );
+
+}
